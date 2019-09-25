@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'HarpToolKit_Example' do
+  pod 'HarpToolKit', :path => '../'
+
+  target 'HarpToolKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
