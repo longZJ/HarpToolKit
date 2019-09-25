@@ -1,0 +1,16 @@
+PODS:
+  - HarpToolKit (0.1.0)
+
+DEPENDENCIES:
+  - HarpToolKit (from `../`)
+
+EXTERNAL SOURCES:
+  HarpToolKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HarpToolKit: d59a2a5e765140cb1f63b7fabb57f912669b9f7f
+
+PODFILE CHECKSUM: c70e13eaec6db741b81a0a9e20228763b4677de6
+
+COCOAPODS: 1.8.0.beta.2
